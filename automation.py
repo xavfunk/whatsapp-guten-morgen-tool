@@ -7,7 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-contact = "Lena" # Omas gruppe
+contact = "Delas Gruppe" # Omas gruppe
 text = "Guten Morgen" # guten Morgen
 
 chrome_options = Options()
